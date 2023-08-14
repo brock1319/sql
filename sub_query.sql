@@ -1,4 +1,4 @@
-   sub_query
+   sub_query_sqlmain_topic
    
    * it is a query or select query inside another query.
    * to improve the maintainbility and performance of your query.
