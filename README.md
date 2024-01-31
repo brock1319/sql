@@ -1,2 +1,5 @@
 # sql
-sql language 
+sql language
+
+select *
+from employees;
