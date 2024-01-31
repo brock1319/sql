@@ -1,2 +1,8 @@
 # sql
-sql language 
+sql language
+
+select *
+from employees;
+
+select max(id)
+from employees;
